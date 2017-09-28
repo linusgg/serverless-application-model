@@ -23,3 +23,6 @@ the versions.
 Checkout the [How-To Guide](HOWTO.md) and [examples folder](examples/) for 
 detailed instructions on how to write AWS SAM templates and deploy them 
 to AWS CloudFormation
+
+## New: Test SAM locally
+https://github.com/awslabs/aws-sam-local
