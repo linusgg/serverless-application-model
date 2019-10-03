@@ -26,3 +26,5 @@ to AWS CloudFormation
 
 ## New: Test SAM locally
 https://github.com/awslabs/aws-sam-local
+
+version 03/10/2019
